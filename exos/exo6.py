@@ -1,0 +1,5 @@
+print((lambda x, y: x + y)(10, 3))
+print((lambda x, y: x - y)(10, 3))
+print((lambda x, y: x * y)(10, 3))
+print((lambda x, y: x / y)(10, 3))
+print((lambda x, y: x ** y)(10, 3))

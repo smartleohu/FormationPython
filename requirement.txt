@@ -1,0 +1,5 @@
+flake8~=5.0.4
+jupyterlab~=2.19
+jupyter_contrib_nbextensions~=0.7.0
+jupytext~=1.14.5
+pytest~=7.2.2

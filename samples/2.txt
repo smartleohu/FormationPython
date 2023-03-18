@@ -1,0 +1,2 @@
+# first line
+3 3.14 * 4 / DUP SIN SWAP /

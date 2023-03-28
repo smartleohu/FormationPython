@@ -47,9 +47,9 @@ Par exemple, le fichier à lire est : “samples/1.txt”
 
 9. Définir la fonction interpreter(text : str) pour interpréter un texte en chaîne de  caractères pour calculer le résultat. 
 
-10. Utiliser IF et ELIF 
+   Utiliser IF et ELIF 
 
-11. Réfléchir à une autre solution (NOTA : avoir des ‘if/elif’ en cascade n’est ni lisible ni simplement extensible ni maintenable dans le temps) 
+   Réfléchir à une autre solution (NOTA : avoir des ‘if/elif’ en cascade n’est ni lisible ni simplement extensible ni maintenable dans le temps) 
 
 12. Lire le fichier “sample/1.txt” en extrayant les textes non commentaires ligne par ligne pour appliquer la fonction interpreter avant d’imprimer les résultats. Par ailleurs, enrichir interpreter avec l’argument d’entrée line_number pour indiquer les erreurs des lignes textuelles dans le fichier au cas où. 
 

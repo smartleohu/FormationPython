@@ -47,24 +47,24 @@ Par exemple, le fichier à lire est : “samples/1.txt”
 
 9. Définir la fonction interpreter(text : str) pour interpréter un texte en chaîne de  caractères pour calculer le résultat. 
 
-   Utiliser IF et ELIF 
+   - Utiliser IF et ELIF 
 
-   Réfléchir à une autre solution (NOTA : avoir des ‘if/elif’ en cascade n’est ni lisible ni simplement extensible ni maintenable dans le temps) 
+   - Réfléchir à une autre solution (NOTA : avoir des ‘if/elif’ en cascade n’est ni lisible ni simplement extensible ni maintenable dans le temps) 
 
-12. Lire le fichier “sample/1.txt” en extrayant les textes non commentaires ligne par ligne pour appliquer la fonction interpreter avant d’imprimer les résultats. Par ailleurs, enrichir interpreter avec l’argument d’entrée line_number pour indiquer les erreurs des lignes textuelles dans le fichier au cas où. 
+10. Lire le fichier “sample/1.txt” en extrayant les textes non commentaires ligne par ligne pour appliquer la fonction interpreter avant d’imprimer les résultats. Par ailleurs, enrichir interpreter avec l’argument d’entrée line_number pour indiquer les erreurs des lignes textuelles dans le fichier au cas où. 
 
-13. Parcourir le dossier “sample” pour manipuler tous les fichiers .txt dedans. 
+11. Parcourir le dossier “sample” pour manipuler tous les fichiers .txt dedans. 
 
-14. Écrire un décorateur pour mesurer le temps d’exécution d’une fonction. Et si on le fait avec context manager ? 
+12. Écrire un décorateur pour mesurer le temps d’exécution d’une fonction. Et si on le fait avec context manager ? 
 
-15. Encapsuler des fonctionnalités en classes 
+13. Encapsuler des fonctionnalités en classes 
 
-    Le constructeur 
+    - Le constructeur 
 
-    Les propriétés 
+    - Les propriétés 
 
-    Les méthodes : objet, classe et statique 
+    - Les méthodes : objet, classe et statique 
 
-    Organiser les différents modules dans le projet avec docstring 
+    - Organiser les différents modules dans le projet avec docstring 
 
-    Réaliser les tests unitaires 
+    - Réaliser les tests unitaires 
